@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bhoumik👋
+
+🎓 B.Tech Student at VIT Bhopal University  
+💻 Interested in Software Development  
+📚 Currently learning programming and building projects  
+
+---
+
+## 🚀 Goals
+- Improve coding skills  
+- Build real-world projects  
+- Explore AI/ML  
+
+
 
 <!--
 **bluenblakc/bluenblakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
